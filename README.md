@@ -1,7 +1,9 @@
 # Lube recipes and ingredients (in progress)
-Some recipes for personal lubricants along with information about ingredients in commercial lube. 
+Some recipes for water based personal lubricants along with information about ingredients in commercial lube. 
 
 ## General info:
+Personal lubes are FDA regulated. Be cautious 
+
 Water based lubes generally use some type of celluose for a thickener / gelling agent. These tend to clump very easily and take some understanding. First, they are not very soluable in water. They like to attach to themselves (clump) more than they like to hydrate. Its important that they get dispersed in water before hydrating to avoid clumping. 
 
 **If you add it too quickly, you'll get clumps.**  
