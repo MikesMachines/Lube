@@ -10,13 +10,7 @@ Water based lubes generally use some type of celluose for a thickener / gelling 
 As it starts to hydrate, there is less water available.  The best way to prevent clumps is to create a slurry before adding to water. This is typically made by adding the cellose to Glycerin or Propylene Glycol. Stir rapidly until dispersed.  Pour into water stirring at 140F / 60C.
 
 ## Main Ingredient info:
-
-#### Glycerin - The amount of just completely false info about glycerin astounds me. It absolutely does not cause yeast infections. It is perfectly safe, has been used for decades. All the studies that people reference about pH, osmality, etc. are not done with women. If you're alergic to glycerine you should not use glycerin products. 
-#### Propylene Glycol - You've been consuming this for many years. Like glycerin, it's a very common food ingredient. People consfuse this with ethylene glycol, which is poisonous. 
-#### HEC - Hydroxyethylcellulose  very common cellulose gelling agent, provides slip. Can create perfectly clear gels. 
-#### MC - Methyl cellulose. Incredibly inexpensive, food grade. Can create a slimy feel. Clumps very easy. Creates a cloudy product.
-#### Xanthan Gum	-	Gelling agent, provides stringiness and body
-***
+See ingredient page
 
 
 # Recipes - always test a small amount before using
