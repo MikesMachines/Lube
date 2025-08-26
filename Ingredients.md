@@ -1,24 +1,25 @@
-# Lube (in progress)
-Supplemental info on ingredients commonly used. 
+# DIY Lube (not made in your kitchen)
+
+Trying to make better-than-commercial lube at home. Lots of options on enhancers (stimulate, not numb)
 
 
 ## Common Ingredient info:
 
 
 #### Propylene Glycol - You've been consuming this for many years. Like glycerin, it's a very common food ingredient. People consfuse this with ethylene glycol, which is poisonous. 
+#### Glycerin - The amount of just completely false info about glycerin astounds me. It absolutely does not cause yeast infections. It is perfectly safe, has been used for decades. All the studies that people reference about pH, osmality, etc. are not done with women. If you're alergic to glycerine you should not use glycerin products. 
+
 
 ## Thickeners
 #### HEC - Hydroxyethylcellulose  very common cellulose gelling agent, provides slip. Can create perfectly clear gels. 
 #### MC - Methyl cellulose. Incredibly inexpensive, food grade. Can create a slimy feel. Clumps very easy. Creates a cloudy product.
 #### Xanthan Gum	-	Gelling agent, provides stringiness and body
 
+
 ## Preservatives
-### Potassium sorbate  
-### Sodium benzoate  
-### Citric acid - mostly used to adjust pH 
-
-
-#### Glycerin - The amount of just completely false info about glycerin astounds me. It absolutely does not cause yeast infections. It is perfectly safe, has been used for decades. All the studies that people reference about pH, osmality, etc. are not done with women. If you're alergic to glycerine you should not use glycerin products. 
+#### Potassium sorbate  
+#### Sodium benzoate  
+#### Citric acid - mostly used to adjust pH 
 
 ## Enhancing ingredients - stimulating
 
@@ -34,11 +35,11 @@ Not very water soluble, but will disperse. Shake before each use. Or mix with a 
 ## Warming / hot
 Typically the warm feeling is due to increased blood circulation. 
 
-### Wintergreen oil extract - 0.05%
+#### Wintergreen oil extract - 0.05%
 DO NOT EAT WINTERGREEN. 
 Wintergreen is warming and promotes circulation. Anti-inflammatory. Antibacterial. 
 
-### Clove oil
+#### Clove oil
 Ayervedic spice considered warming. Anti-inflammatory. Very strong antifungal and antibacterial
 
 ## Cooling / tingling 
